@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import pytest
-from duanming_auto_test.pytest_testwork.basic.calc import Calc
+from pytest_testwork.basic.calc import Calc
 import yaml
 import sys
 
